@@ -1,6 +1,9 @@
 html {
     background-color: #39275B;
 }
+#parag {
+    margin-top: 0px;
+}
 
 body {
     width: 600px;
